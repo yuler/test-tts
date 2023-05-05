@@ -1,0 +1,16 @@
+{
+  "name": "test-tts",
+  "description": "> https://learn.microsoft.com/zh-cn/azure/cognitive-services/speech-service/get-started-text-to-speech?tabs=macos%2Cterminal&pivots=programming-language-javascript",
+  "version": "0.0.0",
+  "main": "test.cjs",
+  "author": "yuler <is.yuler@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.cjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "microsoft-cognitiveservices-speech-sdk": "^1.28.0"
+  },
+  "devDependencies": {}
+}
